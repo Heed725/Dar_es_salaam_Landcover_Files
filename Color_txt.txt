@@ -1,0 +1,8 @@
+1 Water #1a5bab
+2 Tree #358221
+4 Flooded Vegetation #87d19e
+5 Crops #ffdb5c
+7 Built Area #ed022a
+8 Bare Ground #ede9e4
+10 Cloud #c8c8c8
+11 Rangeland #eecfa8
